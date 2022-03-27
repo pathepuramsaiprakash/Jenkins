@@ -7,7 +7,7 @@ public class Test_calc extends Calculator {
 
 	@Test
 	public void add_test() {
-		assertEquals(14,this.add_num(8,5));
+		assertEquals(13,this.add_num(8,5));
 	}
 
 }
